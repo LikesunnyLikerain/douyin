@@ -53,7 +53,13 @@ html,body{
 	margin-right: 20px;
 	text-decoration: none;
 }
-
+.page-content .header-list img{
+	position: absolute;
+	top: -5px;
+	right: -25px;
+	cursor: pointer;
+}
+/* header */
 
 .page-content .page-mainer{
 	position: relative;
@@ -89,6 +95,8 @@ html,body{
 	width: 200px;
 	height: 200px;
 }
+/* main */
+
 
 .page-content .page-footer{
 	position: absolute;
@@ -118,3 +126,4 @@ html,body{
 	color: #f0f0f0;
 	text-decoration: none;
 }
+/* footer */
